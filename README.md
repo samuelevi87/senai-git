@@ -17,5 +17,5 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&amp;logo=intellij-idea&amp;logoColor=white)](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&amp;logo=intellij-idea&amp;logoColor=white)
 [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&amp;logo=eclipse&amp;logoColor=white)](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&amp;logo=eclipse&amp;logoColor=white)
 ## Um pouco sobre meu GitHub
-[![Levi1s github stats](https://github-readme-stats.vercel.app/api?username=samuelevi87&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelevi87&theme=blue-green)]
+[![Levi1s github stats](https://github-readme-stats.vercel.app/api?username=samuelevi87&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelevi87&theme=blue-green)
